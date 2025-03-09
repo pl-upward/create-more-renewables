@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:gems/quartz"
+      },
+      {
+        "type": "fluid_stack",
+        "amount": 250,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": {
+          "id":"minecraft:amethyst_shard"
+        }
+      }
+    ]
+  }
