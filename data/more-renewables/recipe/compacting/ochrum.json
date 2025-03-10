@@ -1,0 +1,26 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "minecraft:amethyst_shard"
+      },
+      {
+        "item": "minecraft:amethyst_shard"
+      },
+      {
+        "item": "minecraft:terracotta"
+      },
+      {
+        "type": "fluid_stack",
+        "amount": 100,
+        "fluid": "minecraft:lava"
+      }
+    ],
+    "results": [
+      {
+        "item": {
+          "id": "create:ochrum"
+        }
+      }
+    ]
+  }
